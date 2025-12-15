@@ -1,0 +1,9 @@
+# koki – by diel dniel
+**Prep time:** 450 min | **Cook time:** 1.3 hour | **Serves:** 8
+## Ingredients
+- Wshed bitter leves, penut pste, beef, cryfish …
+## Steps
+1. Cook met …
+2. dd penuts …
+Proudly Cmeroonin!
+fter creting ll 5 files:

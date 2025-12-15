@@ -1,0 +1,13 @@
+name: review  requirement 
+on:
+  - push
+jobs:
+  check reps :
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout code  
+        uses: actions/checkout@v4
+      - name: check  requirement 
+        run: 
+             [ -f README.md ] && [ -d recipes ]
+             

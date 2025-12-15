@@ -1,0 +1,9 @@
+# pomme pile by dniel jures
+**Prep time:** 30 min | **Cook time:** 1 hour | **Serves:** 8
+## Ingredients
+- Wshed bitter leves, penut pste, beef, cryfish …
+## Steps
+1. Cook met …
+2. dd penuts …
+Proudly Cmeroonin!
+fter creting ll 5 files:
